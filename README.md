@@ -112,6 +112,9 @@ Result: 41
 ### **Conclusion**
 This C++ program effectively evaluates mathematical expressions using operator precedence and stacks. By leveraging `stringstream` for tokenization and stacks for evaluation, it ensures proper execution of complex expressions. It serves as a foundation for building more advanced expression evaluators or calculators in C++.
 
+### **IMAGE**
+
+![Image](https://github.com/user-attachments/assets/c5b8e254-8364-4671-9c42-7c306c60bf55)
 
 
 
